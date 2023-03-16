@@ -1,17 +1,7 @@
 # Korisne web stranice
 
-### Owerview
 
-[Web3](###Web3)
-[AI](###AI)
-[Development](###Development)
-[Cloud](###Cloud)
-[Virtualizacija](###Virtualizacija)
-[Alati](###Alati)
-[Ostalo](###Ostalo)
-[Kvantna računala](###Kvantna računala)
-
-###Web3
+## Web3
 
 [HardHat](https://hardhat.org/ "HardHat") - alat za razvijanje, debuging i compailing pametnih ugovora
 
@@ -31,7 +21,7 @@
 
 
 
-###AI
+## AI
 
 [Elcit](https://elicit.org/ "Elcit") - AI research tool(Besplatno)
 
@@ -59,7 +49,7 @@
 
 [Personal.ai ](https://www.personal.ai/ "Personal.ai ")- Alat koji generira tvoj vlastiti AI(memory menangment)
 
-###Development
+## Development
 
 [Uno](https://platform.uno/ "Uno") - C# Xamarin freamwork za izradu cross platform aplikacija
 
@@ -68,11 +58,11 @@
 [teta.so](https://teta.so/ "teta.so") - no code app builder(free trail)
 
 
-###Flutter widgeti
+## Flutter widgeti
 
 Warp - ako imamo column koji prelazi vam dometa, koristimo ovo da ga slomi
 
-###Cloud
+## Cloud
 
 [Cloudcraft](https://www.cloudcraft.co/ "Cloudcraft") - platforma za vizualno dizajniranje cloud arhitekture
 
@@ -82,7 +72,7 @@ Warp - ako imamo column koji prelazi vam dometa, koristimo ovo da ga slomi
 
 [WireGuard](https://www.wireguard.com/ "WireGuard") - Selfhosted VPN
 
-###Virtualizacija
+## Virtualizacija
 
 [EasyGPU-P](http://https://github.com/jamesstringerparsec/Easy-GPU-PV "EasyGPU-P") - Omogućuje djeljenje GPUa na više dijelova za poboljšanje VMova
 
@@ -90,7 +80,7 @@ Warp - ako imamo column koji prelazi vam dometa, koristimo ovo da ga slomi
 
 [Golem](https://www.golem.network/ "Golem") - slično kao i Boinc samo decentralizirano
 
-###Alati
+## Alati
 
 [TinEye](https://tineye.com/ "TinEye") - reverse image search
 
@@ -104,7 +94,7 @@ Warp - ako imamo column koji prelazi vam dometa, koristimo ovo da ga slomi
 
 [PDFescape](https://www.pdfescape.com/ "PDFescape") - Online PDF editor
 
-###Ostalo
+## Ostalo
 
 [Awesome OOS](https://github.com/sereneblue/awesome-oss "Awesome OOS") - lista open source Software-ova
 
@@ -115,6 +105,6 @@ Warp - ako imamo column koji prelazi vam dometa, koristimo ovo da ga slomi
 [AppSumo](https://appsumo.com/ "AppSumo") - SaaS marketplace(lifetame deals)
 
 
-###Kvantna računala
+## Kvantna računala
 
 [Quskit](https://qiskit.org/ "Quskit") - Python SDK za razvoj kvantnih programa
