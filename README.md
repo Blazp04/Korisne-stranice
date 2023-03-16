@@ -1,15 +1,15 @@
-
 # Korisne web stranice
 
 ### Owerview
 
-###Virtualizacija
-
-[EasyGPU-P](http://https://github.com/jamesstringerparsec/Easy-GPU-PV "EasyGPU-P") - Omogućuje djeljenje GPUa na više dijelova za poboljšanje VMova
-
-[Boinc](https://boinc.berkeley.edu/ "Boinc") - Omogućuje da se poveće više računala kako bi zajedno rješili jedan komplekasan zadatak
-
-[Golem](https://www.golem.network/ "Golem") - slično kao i Boinc samo decentralizirano
+[Web3](###Web3)
+[AI](###AI)
+[Development](###Development)
+[Cloud](###Cloud)
+[Virtualizacija](###Virtualizacija)
+[Alati](###Alati)
+[Ostalo](###Ostalo)
+[Kvantna računala](###Kvantna računala)
 
 ###Web3
 
@@ -82,6 +82,13 @@ Warp - ako imamo column koji prelazi vam dometa, koristimo ovo da ga slomi
 
 [WireGuard](https://www.wireguard.com/ "WireGuard") - Selfhosted VPN
 
+###Virtualizacija
+
+[EasyGPU-P](http://https://github.com/jamesstringerparsec/Easy-GPU-PV "EasyGPU-P") - Omogućuje djeljenje GPUa na više dijelova za poboljšanje VMova
+
+[Boinc](https://boinc.berkeley.edu/ "Boinc") - Omogućuje da se poveće više računala kako bi zajedno rješili jedan komplekasan zadatak
+
+[Golem](https://www.golem.network/ "Golem") - slično kao i Boinc samo decentralizirano
 
 ###Alati
 
