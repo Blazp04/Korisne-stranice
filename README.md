@@ -3,13 +3,13 @@
 ## Owerview
 
 [Web3](#Web3)<br>
-[AI](#AI)
-[Development](#Development)
-[Cloud](#Cloud)
-[Virtualizacija](#Virtualizacija)
-[Alati](#Alati)
-[Ostalo](#Ostalo)
-[Kvantna računala](###Kvantna-računala)
+[AI](#AI)<br>
+[Development](#Development)<br>
+[Cloud](#Cloud)<br>
+[Virtualizacija](#Virtualizacija)<br>
+[Alati](#Alati)<br>
+[Ostalo](#Ostalo)<br>
+[Kvantna računala](###Kvantna-računala)<br>
 
 ## Web3
 
