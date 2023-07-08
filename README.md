@@ -29,16 +29,26 @@
 
 [Chainlist](https://chainlist.org/ "Chainlist") - lista blockchaina
 
+[L2BEAT](https://l2beat.com/scaling/tvl "L2BEAT") - L2 blockchaini i rizici
+
+###Develoipment tools
+
+[ThirdWeb](https://thirdweb.com/ "ThirdWeb") - SDK za lakši rad sa cryptom
+
 
 
 ## AI
 
+[InsiderEdge](https://www.insidersedge.io/ "InsiderEdge") - Google ali za AI alate
+
+[There's an AI for that](https://theresanaiforthat.com/ "There's an AI for that") - Alat za pretraživanje AI alata
+
+###Istraživanje
 [Elcit](https://elicit.org/ "Elcit") - AI research tool(Besplatno)
 
-[WriteSonic](https://writesonic.com/ "WriteSonic") - AI text generator(ogroman broj opcija)
+[DimenDozen.ai](https://www.dimeadozen.ai/ "DimenDozen.ai") - Alat za validaciju biznis ideje(SKUP)
 
-[SinCode](www.sincode.ai "SinCode") - AI text generator sa milion funkcionalnosti
-
+###Media(video/audio)
 [Metademolab](https://sketch.metademolab.com/ "Metademolab") - Animacija bilo kojeg crteža
 
 [Runway](https://runwayml.com/ "Runway") - AI uređivač slika(sve i svašta)
@@ -53,8 +63,20 @@
 
 [Pocdastle](https://podcastle.ai/ "Pocdastle") - Audio studijska kvaliteta za podcaste sa običnog računala
 
+[elevenLabs](https://beta.elevenlabs.io/ "elevenLabs") - AI voice actor
+
+[DragGAN](https://github.com/XingangPan/DragGAN "DragGAN") - Alat za manipulaciju slikama!!!***
+
+###GPT
+
+[WriteSonic](https://writesonic.com/ "WriteSonic") - AI text generator(ogroman broj opcija)
+
+[SinCode](www.sincode.ai "SinCode") - AI text generator sa milion funkcionalnosti
+
+
 [originality.ai](originality.ai "originality.ai") - plagisam checking and AI detection
 
+###Ostalo
 [olympus](https://olympus-assets.com/ "olympus") - Marketing360 assistent (TMRW)
 
 [Personal.ai ](https://www.personal.ai/ "Personal.ai ")- Alat koji generira tvoj vlastiti AI(memory menangment)
